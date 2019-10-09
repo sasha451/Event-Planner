@@ -13,6 +13,8 @@
  
  ![main_window](https://github.com/sasha451/Task-Planner/blob/master/Mockups/Main%20window%20(2).png)
  
+ Для того, чтобы изменять/удалять задачу, пользователь должен выбрать ее, нажав на область определенной задачи.
+ 
  Пользователь может удалить задачу, нажав на кнопку "trash" (иконка с изображением мусорного бака).
  
  ![delete_task](https://github.com/sasha451/Task-Planner/blob/master/Mockups/Choosing%20task%20(1).png)
