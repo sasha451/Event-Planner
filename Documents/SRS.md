@@ -47,7 +47,7 @@
  
  ![edit_task](https://github.com/sasha451/Task-Planner/blob/master/Mockups/Task%20editing.png)
  
- При нажатии на кнопку "add" (иконка с изображением плюса) отобразится окно создания новой задачи. После заполнения полей и нажатия на кнопку "Create event" будет создано новое событие.
+ При нажатии на кнопку "add" (иконка с изображением плюса) отобразится окно создания новой задачи. После заполнения полей и нажатия на кнопку "Create task" будет создано новое событие.
  
  ![create_task](https://github.com/sasha451/Task-Planner/blob/master/Mockups/Task%20creating.png)
 
